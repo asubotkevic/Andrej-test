@@ -89,6 +89,21 @@ console.log(suma3)
 function ats(x)
 return ats[skaiciai1] x[0] ;
 */
-console.log(text3.reverse(1) + ', ' + text2.reverse(1) + ', ' + text1.reverse(1));
+
+console.log([text3] + [text2])
+
+console.log(text3.reverse(1).join(', ') + text2.reverse(1) + ', ' + text1.reverse(1));
+
+// Kintamųjų palyginimas
+
+if (a > b){
+console.log('P0midoras');}
+else {
+console.log('Bandykite kita karta');}
+//=== 1 nelygu '1'
+if (a === b){
+console.log('lygus')}
+else{
+console.log('nelygus')}
 
     // node index.js
