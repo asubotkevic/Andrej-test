@@ -90,7 +90,7 @@ function ats(x)
 return ats[skaiciai1] x[0] ;
 */
 
-console.log([text3] + [text2])
+// console.log([text3] + [text2])
 
 console.log(text3.reverse(1).join(', ') + text2.reverse(1) + ', ' + text1.reverse(1));
 
